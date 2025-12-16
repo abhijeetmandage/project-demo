@@ -4,3 +4,7 @@
 # Ignore all jars except mysql connector
 *.jar
 !lib/mysql-connector-j-9.5.0.jar
+bezpoint/
+file/
+mypackage/
+project/*.txt
